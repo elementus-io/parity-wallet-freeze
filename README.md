@@ -1,5 +1,7 @@
 # Accounts affected by the Parity multisig bug
 
+For a more information, read our blog post: [The Parity fallout -- How much was lost and who is affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
+
 | Address                                    | Entity          | Balance (ETH) | 
 |--------------------------------------------|-----------------|---------------| 
 | 0x3bfc20f0b9afcace800d73d2191166ff16540258 | Web3 Foundation | 306276.27     | 
