@@ -1,5 +1,7 @@
 # Accounts affected by the Parity multisig bug
 
+
+
 For a more information, read our blog post: [The Parity fallout -- How much was lost and who is affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
 
 | Address                                    | Entity          | Balance (ETH) | 
@@ -588,4 +590,17 @@ For a more information, read our blog post: [The Parity fallout -- How much was 
 | 0xf5706748b4d1489d54e17eba8bce0f86dd7ac862 |                 | 0             | 
 | 0x81158ddcdba6a6341027e771d72865d86666c100 |                 | 0             | 
 | 0x78d653cde46185653dfac71464b000daa5eedf1f |                 | 0             | 
-
+| 0xe5b5b8585afb49e40c93037e373c5eeb4be254af |                 | 0             | 
+| 0x676a2abe37f3d6481e83681a807c3c11629a0c55 |                 | 0             | 
+| 0x1cdc8a8b37508c4dc0fefa6e3f0ab1696678e8b7 |                 | 0             | 
+| 0x2e2216377f42cdc1b5bfd0f3d3f8c1ebed647e98 |                 | 0             | 
+| 0xb53d21371f0434977f5f5e858fb1d8256e1d9f0b |                 | 0             | 
+| 0x13b5084661eb7c5778f6bf943f2a35f4b6193931 |                 | 0             | 
+| 0xe90e765cf00243c358ea6c8b184a00e04eb4c1c3 |                 | 0             | 
+| 0xd6584de826ac564ec9f4c67fe0f942cd35470ff1 |                 | 0             | 
+| 0x429146a6ac5238b4907b2243bdc74527e6f15e0e |                 | 0             | 
+| 0x32e6043f701b8796ee6802aa5541607ed2ef3a42 |                 | 0             | 
+| 0x6534ac6fee035d9ff6265775a2214f9ae6ee1057 |                 | 0             | 
+| 0xb3050f4d5dd5c114c5d6a76360d2e610b7c27716 |                 | 0             | 
+| 0x2d7f2d635e1de4ab5fd498ae406b779f33d2564f |                 | 0             | 
+| 0x81cfdb37159985897507f9acabf82b68742047d9 |                 | 0             | 
