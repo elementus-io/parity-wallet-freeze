@@ -1,6 +1,8 @@
 /*
 Find every wallet affected by the Parity multisig bug
 https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/
+
+Requires a fully synced local Ethereum node
  */
 
 var Web3 = require('web3');
