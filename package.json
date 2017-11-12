@@ -1,0 +1,27 @@
+{
+  "name": "parity-bug",
+  "version": "0.0.0",
+  "description": "Identify the wallets affected by the Parity multisig bug",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementus-io/parity-wallet-freeze.git"
+  },
+  "keywords": [
+    "ethereum",
+    "multisig",
+    "vulnerability"
+  ],
+  "author": {
+    "name": "Max Galka",
+    "email": "max@elementus.io",
+    "url": "https://github.com/galkamax"
+  },
+  "license": "MPL-2.0",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "dependencies": {
+    "web3": "^0.20.1"
+  }
+}
