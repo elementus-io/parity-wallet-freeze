@@ -2,7 +2,7 @@
 
 
 
-For a more information, read our blog post: [The Parity fallout -- How much was lost and who is affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
+For more information, please see our blog post: [The Parity fallout -- How much was lost and who is affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
 
 | Address                                    | Entity          | Balance (ETH) | 
 |--------------------------------------------|-----------------|---------------| 
