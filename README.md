@@ -1,8 +1,6 @@
 # Accounts affected by the Parity multisig bug
 
-
-
-For more information, please see our blog post: [The Parity fallout -- How much was lost and who is affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
+For more information and a description of this script, see our blog post: [The Parity fallout - How much was lost and which ICOs are affected?](https://elementus.io/blog/which-icos-are-affected-by-the-parity-wallet-bug/)
 
 | Address                                    | Entity          | Balance (ETH) | 
 |--------------------------------------------|-----------------|---------------| 
@@ -162,6 +160,7 @@ For more information, please see our blog post: [The Parity fallout -- How much 
 | 0xdaaacb21032be15b7e60e51972f501bb9755bc83 |                 | 0.01          | 
 | 0xc78ae64113b358435cb626d1519ddd0fc873bfb4 |                 | 0.01          | 
 | 0xec86ad3c96a242f5f108a081194a9c5650bd8701 |                 | 0.01          | 
+| 0x676a2abe37f3d6481e83681a807c3c11629a0c55 |                 | 0.01          |
 | 0x8c53795efc5dca289a703ecb40f95934b1a92362 |                 | 0.009246045   | 
 | 0xac3c64644d3ca6f960308ed7cd79bfa794bf12b1 |                 | 0.007         | 
 | 0xd51f04d699a929c86695d0ef00973189dc928429 |                 | 0.006         | 
@@ -590,8 +589,7 @@ For more information, please see our blog post: [The Parity fallout -- How much 
 | 0xf5706748b4d1489d54e17eba8bce0f86dd7ac862 |                 | 0             | 
 | 0x81158ddcdba6a6341027e771d72865d86666c100 |                 | 0             | 
 | 0x78d653cde46185653dfac71464b000daa5eedf1f |                 | 0             | 
-| 0xe5b5b8585afb49e40c93037e373c5eeb4be254af |                 | 0             | 
-| 0x676a2abe37f3d6481e83681a807c3c11629a0c55 |                 | 0             | 
+| 0xe5b5b8585afb49e40c93037e373c5eeb4be254af |                 | 0             |  
 | 0x1cdc8a8b37508c4dc0fefa6e3f0ab1696678e8b7 |                 | 0             | 
 | 0x2e2216377f42cdc1b5bfd0f3d3f8c1ebed647e98 |                 | 0             | 
 | 0xb53d21371f0434977f5f5e858fb1d8256e1d9f0b |                 | 0             | 
